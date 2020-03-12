@@ -1,0 +1,5 @@
+﻿Categories,GBP/USD,AUD/USD,EUR/USD,USD/JPY,USD/CAD,NZD/USD,USD/CHF,USD/NOK,SEK/USD,SGD/USD
+Ticker,GBPUSD=X,AUDUSD=X,EURUSD=X,JPY=X,USDCAD=X,NZDUSD=X,CHF=X,NOK=X,SEKUSD=X,SGDUSD=X
+Class,C,C,C,C,C,C,C,C,C,C
+Industry,Currency,Currency,Currency,Currency,Currency,Currency,Currency,Currency,Currency,Currency
+Dividends,N,N,N,N,N,N,N,N,N,N
